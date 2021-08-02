@@ -24,7 +24,7 @@ Detailní popis podkapitol. Může zde být i postup nastavení nebo použití. 
 
 Určeno pro detailní informace, pokud by se exitovala ještě hlubší podkapitola.
 
-**Viz také**  
+## Viz také
 
 [Evidence vratných obalů (Vratné obaly)](ac-pack-tracking-return-packing.md)  
 [Financial Pack](ac-finance-pack.md)  

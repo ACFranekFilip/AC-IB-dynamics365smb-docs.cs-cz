@@ -19,7 +19,7 @@ Add-on modul Publikační úkoly je rozšiřující modul k Publikování Sharep
 Umožňuje přímo z prostředí systému Dynamics 365 Business Central publikovat úkoly do systému SharePoint, propojit je se záznamy v tabulkách informačního systému a doplnit o uživatelsky definované parametry (metadata).
 
 
-**Viz také**
+## Viz také
 
 [Publikování úkolů - nastavení](ac-publication-tasks-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

@@ -117,7 +117,7 @@ Předmět i tělo tohoto druhu emailu se definuje v textech mailu s využitím p
 3. Zde vyberte **Fáze polí** akci **Emaily**.
 4. Vyplňte pole **Typ e-mailu** jako **Strukturovaný**.
 
-**Viz také**
+## Viz také
 
 [Správa upozornění](ac-notifications.md)  
 [Productivity Pack](ac-productivity-pack.md)

@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 # Obecné parametry - Nastavení
 
-**Viz také**
+## Viz také
 
 [Obecné parametry](ac-general-parameters.md)  
 [Productivity Pack](ac-productivity-pack.md)

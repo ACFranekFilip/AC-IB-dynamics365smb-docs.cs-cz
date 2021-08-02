@@ -14,7 +14,7 @@ ms.author: v-makune
 
 Viz. popis Elektronická fakturace – rozdíl pouze v tom, jak se faktura odešle. Tento modul poskytuje nástroje pro elektronické podepsání dokladu, případně možnost doplnění časového razítka.
 
-**Viz také**
+## Viz také
 
 [Elektronická fakturace ISDOC](ac-elektronic-dokuments-isdoc.md)  
 [Elektronická fakturace](ac-elektronic-dokuments.md)   

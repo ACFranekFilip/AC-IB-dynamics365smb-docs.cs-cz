@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 # WorkFlow - kontrolované tabulky - Nastavení
 
-**Viz také**
+## Viz také
 
 [WorkFlow - kontrolované tabulky](ac-workflow-linker-tables.md)  
 [Productivity Pack](ac-productivity-pack.md)

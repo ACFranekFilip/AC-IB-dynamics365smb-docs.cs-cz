@@ -22,7 +22,7 @@ Detailní popis podkapitol. Může zde být i postup nastavení nebo použití. 
 
 Určeno pro detailní informace, pokud by se exitovala ještě hlubší podkapitola.
 
-**Viz také**
+## Viz také
 
 [WorkFlow - řízení stavů](ac-workflow-status-management.md)  
 [Productivity Pack](ac-productivity-pack.md)

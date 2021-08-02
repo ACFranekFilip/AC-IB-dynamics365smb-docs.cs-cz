@@ -20,7 +20,7 @@ Funkčnost add-on modulu je integrovaná s add-on modulem Napojení na MS Word. 
 ![Faktoring](media/factoring.png "Faktoring")
 
 
-**Viz také**
+## Viz také
 
 [Nastavení - Faktoring](ac-factoring-setup.md)  
 [Financial Pack](ac-finance-pack.md)  

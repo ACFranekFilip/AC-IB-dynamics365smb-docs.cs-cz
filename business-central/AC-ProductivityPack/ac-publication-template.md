@@ -23,7 +23,7 @@ Add-on modul Publikační šablony je rozšiřující modul k Publikování Shar
 - hromadnou evidenci – více vazeb v jedné publikaci
 
 
-**Viz také**
+## Viz také
 
 [Publikační šablony - nastavení](ac-publication-template-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

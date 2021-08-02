@@ -14,7 +14,7 @@ ms.author: AC MartinKunes
 # Fiskální tiskárny - Nastavení
 
 
-**Viz také**
+## Viz také
 
 [Fiskální tiskárny](ac-fiscal-printers.md)  
 [Financial Pack](ac-finance-pack.md)  

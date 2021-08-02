@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 # Doprava základ - Nastavení
 
-**Viz také**
+## Viz také
 
 [Doprava - základ](ac-transport-basic.md)  
 [Productivity Pack](ac-productivity-pack.md)

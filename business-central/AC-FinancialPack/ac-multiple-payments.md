@@ -17,7 +17,8 @@ Add-on modul Více úhrad rozšiřuje standard prodejních dokladů, kdy namíst
 Na primárních dokladech (faktura, objednávka, dobropis) je v rozpisu platby možné definovat jeden či více typů úhrad (kódů způsobu platby) a tyto následně zaúčtovat (tzn. zaplatit doklad). Obdobně lze provést zaúčtování rozpisu platby na vytvořeném resp. zaúčtovaném dokladu (faktura, dobropis, záloha). Modul tvoří základ pro podporu maloobchodního prodeje a lze jej využívat spolu s modulem Fiskální tiskárny.
 
 ![Více úhrad](media/multiple_payment.png "Více úhrad")
-**Viz také**
+
+## Viz také
 
 [Nastavení - Více úhad](ac-multiple-payments-setup.md)  
 [Financial Pack](ac-finance-pack.md)  

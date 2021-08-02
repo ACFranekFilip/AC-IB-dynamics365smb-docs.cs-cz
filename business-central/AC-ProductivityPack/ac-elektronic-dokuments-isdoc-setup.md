@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 # Elektronická fakturace ISDOC - nastavení
 
-**Viz také**
+## Viz také
 
 [Elektronická fakturace - Nastavení](ac-elektronic-dokuments-setup.md)  
 [Elektronická fakturace ISDOC](ac-elektronic-dokuments-isdoc.md)  

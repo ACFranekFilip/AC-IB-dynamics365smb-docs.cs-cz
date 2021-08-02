@@ -15,7 +15,7 @@ ms.author: AC MartinKunes
 
 
 
-**Viz také**
+## Viz také
 
 [Více úhad](ac-multiple-payments.md)  
 [Financial Pack](ac-finance-pack.md)  

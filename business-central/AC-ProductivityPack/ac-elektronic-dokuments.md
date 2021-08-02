@@ -21,7 +21,7 @@ K šířené elektronické fakturaci lze připojit libovolné elektronické př�
 
 ![Elektronická fakturace](media/electronic_documents.png "Elektronická fakturace")
 
-**Viz také**
+## Viz také
 
 [Elektronická fakturace - Nastavení](ac-elektronic-dokuments-setup.md)  
 [Elektronická fakturace ISDOC](ac-elektronic-dokuments-isdoc.md)  

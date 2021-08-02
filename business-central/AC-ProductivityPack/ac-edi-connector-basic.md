@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 # EDI konektor základ
 
-**Viz také**
+## Viz také
 
 [EDI konektor základ - nastavení](ac-edi-connector-basic-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

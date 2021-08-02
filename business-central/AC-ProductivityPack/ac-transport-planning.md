@@ -17,7 +17,7 @@ Centrem plánování dopravy je formulář Pult dispečera dopravy, který zobra
 
 ![Doprava - Plánování](media/transport_planing.png "Doprava - Plánování")
 
-**Viz také**
+## Viz také
 
 [Doprava - plánování - nastavení](ac-transport-planning-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

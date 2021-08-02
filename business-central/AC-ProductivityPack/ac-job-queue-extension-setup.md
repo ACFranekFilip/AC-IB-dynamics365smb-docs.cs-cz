@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 # Rozšíření fronty  úloh (Job Queue) - Nastavení
 
-**Viz také**
+## Viz také
 
 [Rozšíření fronty  úloh (Job Queue)](ac-job-queue-extension.md)  
 [Productivity Pack](ac-productivity-pack.md)

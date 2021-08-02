@@ -109,7 +109,7 @@ Z tohoto stavu se již nelze vrátit do předchozího **Stavu** – V řešení 
 
 ![Název](media/complaints-closing.png)
 
-**Viz také**
+## Viz také
 
 [Reklamace - nastavení](ac-complaints-management-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

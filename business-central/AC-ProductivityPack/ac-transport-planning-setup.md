@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 # Doprava Plánování - Nastavení
 
-**Viz také**
+## Viz také
 
 [Doprava - plánování](ac-transport-planning.md)  
 [Productivity Pack](ac-productivity-pack.md)

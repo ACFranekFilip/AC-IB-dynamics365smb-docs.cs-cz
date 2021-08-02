@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 # Publikační šablony - Nastavení
 
-**Viz také**
+## Viz také
 
 [Publikační šablony](ac-publication-template.md)  
 [Productivity Pack](ac-productivity-pack.md)

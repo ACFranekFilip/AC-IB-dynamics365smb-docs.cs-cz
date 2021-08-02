@@ -19,7 +19,7 @@ Je nástrojem pro další akce s kontakty společnosti, které jsou v insolvenč
 
 ![Insolvenční rejstřík](media/Insolvence_register.png "Insolvenční rejstřík")
 
-**Viz také**
+## Viz také
 
 [Nastavení - Insolvenční rejstřík](ac-insolvence-register-setup.md)  
 [Financial Pack](ac-finance-pack.md)  

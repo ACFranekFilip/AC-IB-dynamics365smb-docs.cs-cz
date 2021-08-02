@@ -14,7 +14,7 @@ ms.author: AC MartinKunes
 # Insolvenční rejstřík - Nastavení
 
 
-**Viz také**
+## Viz také
 
 [Insolvenční rejstřík](ac-insolvence-register.md)  
 [Financial Pack](ac-finance-pack.md)  

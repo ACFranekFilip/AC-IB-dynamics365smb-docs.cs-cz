@@ -16,7 +16,7 @@ Add-on modul Obecné parametry umožňuje přidat ke kartám v systému Dynamics
 
 ![Obecné parametry](media/general_parameters.png "Obecné parametry")
 
-**Viz také**
+## Viz také
 
 [Obecné parametry - nastavení](ac-general-parameters-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

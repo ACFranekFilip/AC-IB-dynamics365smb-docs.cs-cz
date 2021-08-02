@@ -14,7 +14,7 @@ ms.author: AC MartinKunes
 # Factoring - Nastavení
 
 
-**Viz také**
+## Viz také
 
 [Faktoring](ac-factoring.md)  
 [Financial Pack](ac-finance-pack.md)  

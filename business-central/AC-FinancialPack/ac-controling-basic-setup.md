@@ -15,7 +15,7 @@ ms.author: AC MartinKunes
 
 
 
-**Viz také**
+## Viz také
 
 [Controling Basic](ac-controling-basic.md)  
 [Financial Pack](ac-finance-pack.md)  

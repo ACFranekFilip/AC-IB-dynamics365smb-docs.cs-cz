@@ -16,7 +16,7 @@ Modul Doprava – základ řeší problematiku evidence vozidel, plánování ú
 
 ![Doprava - základ](media/transport_basic.png "Doprava - základ")
 
-**Viz také**
+## Viz také
 
 [Doprava - základ - nastavení](ac-transport-basic-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

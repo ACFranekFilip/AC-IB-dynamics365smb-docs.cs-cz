@@ -83,7 +83,8 @@ Některé stavy mohou být označeny jako **Konečný stav**, z něhož se už n
 2. Na stránce **Nastavení řízení stavů** zadejte do pole **Číslo tabulky** číslo 52068271, které označuje tabulku Evidence pošty
 3. V poli **Šablony Řízení stavů** vyberte příslušnou šablonu pro řízení stavů pro Evidenci pošty.
 ![Nastavení řízení stavů](media/complaints-status_mgt._setup.png)
-**Viz také**
+
+## Viz také
 
 [Reklamace](ac-complaints-management.md)  
 [Productivity Pack](ac-productivity-pack.md)

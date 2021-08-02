@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 # Elektronická fakturace - Nastavení
 
-**Viz také**
+## Viz také
 
 [Elektronická fakturace](ac-elektronic-dokuments.md)  
 [Productivity Pack](ac-productivity-pack.md)

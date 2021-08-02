@@ -12,8 +12,7 @@ ms.author: v-makune
 ---
 # Datové schránky - nastavení
 
-
-**Viz také**
+## Viz také
 
 [Datové schránky](ac-data-boxes.md)  
 [Productivity Pack](ac-productivity-pack.md)

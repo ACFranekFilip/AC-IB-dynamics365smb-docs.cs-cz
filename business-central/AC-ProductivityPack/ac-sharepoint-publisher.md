@@ -17,7 +17,7 @@ Add-on modul Publikování SharePoint umožňuje přímo z prostředí systému 
 ![Sharepoint](media/sharepoint.png "Sharepoint")
 
 
-**Viz také**
+## Viz také
 
 [Publikování SharePoint - nastavení](ac-sharepoint-publisher-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)

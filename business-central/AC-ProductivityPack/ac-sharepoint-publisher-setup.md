@@ -12,7 +12,7 @@ ms.author: v-makune
 ---
 # Publikování SharePoint - Nastavení
 
-**Viz také**
+## Viz také
 
 [Publikování SharePoint](ac-sharepoint-publisher.md)  
 [Productivity Pack](ac-productivity-pack.md)

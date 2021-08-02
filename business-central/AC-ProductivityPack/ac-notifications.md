@@ -18,7 +18,7 @@ Základem použití modulu je definování sledovaných stavů a událostí v sy
 
 ![Správa upozornění](media/notification.png "Správa upozornění")
 
-**Viz také**
+## Viz také
 
 [Správa upozornění - nastavení](ac-notifications-setup.md)  
 [Productivity Pack](ac-productivity-pack.md)
